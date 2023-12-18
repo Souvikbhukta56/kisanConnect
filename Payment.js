@@ -1,3 +1,4 @@
+// Just a dummy page right now, will be implemented later.
 import React, { useState, useEffect } from 'react';
 import { SafeAreaView, StatusBar, Dimensions, Text,StyleSheet, FlatList, View, Image, TouchableOpacity, Modal, Keyboard, TextInput,Pressable } from 'react-native';
 import { FontAwesomeIcon } from "@fortawesome/react-native-fontawesome";
